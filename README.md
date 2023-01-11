@@ -12,9 +12,9 @@ In today's world, driver fatigue has become one of the leading causes of traffic
 4.	Finetune the model hyperparameters for the model and improve the accuracy of the model
 5.	Save the model and deploy it for easy use
 6.	Detect drowsiness of real-time video feed to alert drivers based on facial expressions
-7.	Two types of alerts:
-  1.	Eyes closed for 15 seconds or more, high volume alert to wake up the user.
-  2.	Yawn 3 times in the span of 30 minutes, an alert is displayed on the screen to alert the user.
+7.	Two types of alerts: </br>
+ &ensp;	1. Eyes closed for 15 seconds or more, high volume alert to wake up the user.</br>
+ &ensp;	2. Yawn 3 times in the span of 30 minutes, an alert is displayed on the screen to alert the user.
 
 ## Project Architecture
 ![image](https://user-images.githubusercontent.com/22653266/211900588-aa5e8ea8-8e1f-4146-af85-f06ba67fc949.png)
